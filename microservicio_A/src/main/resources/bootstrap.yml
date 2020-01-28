@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: microservicio-a
+    
+  cloud:
+    config:
+      uri: http://localhost:8888
+
+
+  
